@@ -1,0 +1,59 @@
+[
+    {
+       "id": "101",
+       "name" : "Prof. Dr. Pran Gopal Datta",
+       "degree" : "MBBS, MCPS, ACORL, PhD, FCPS (ENT)",
+       "speciality" : "Ear, Nose & Throat Specialist",
+       "about" : "Prof. Dr. Pran Gopal Datta is a Ear, Nose & Throat Specialist & Head Neck Surgeon doctor in Dhaka. His qualification is MBBS, MCPS, ACORL, PhD, MSc (Audiology), FCPS (ENT), FRCS (Glasgow). He is a Professor in the Department of ENT at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Green Life Hospital, Dhaka. Practicing hour of Prof. Dr. Pran Gopal Datta at Green Life Hospital, Dhaka is 8am to 11am & 4pm to 8pm (Closed: Tuesday, Thursday & Friday).",
+       "address": "32, Green Road, Dhanmondi, Dhaka - 1205",
+       "time" : "8am to 11am & 4pm to 8pm (Closed: Tuesday, Thursday & Friday)",
+       "number": "+8801966010138",
+       "img" : "https://i.ibb.co/6nTMYxr/unnamed.jpg"
+
+
+
+    },
+    {
+      "id": "102",
+       "name" : "Prof. Dr. Md. Golam Shorowar",
+       "degree" : "MBBS, MCPS (ENT), DLO (DU)",
+       "speciality" : "ENT, Head & Neck Surgery Specialist",
+       "about" : "Prof. Dr. Md. Golam Shorowar is a ENT, Head & Neck Surgery Specialist doctor in Dhaka. His qualification is MBBS, MCPS (ENT), DLO (DU), FRSH (Lndon). He is working as a ENT, Head & Neck Surgery Specialist doctor in Shahabuddin Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Badda. Practicing hour of Prof. Dr. Md. Golam Shorowar at Popular Diagnostic Center, Badda is 6.30pm to 9pm (Closed: Friday).",
+       "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+       "time" : "6.30pm to 9pm (Closed: Friday)",
+       "number": "+8809613787809",
+       "img" : "https://i.ibb.co/LdQGKHG/32mowla.png"
+
+
+
+    },
+    {
+      "id": "103",
+       "name" : "Prof. Dr. Maj. Md. Ziauddin Haidar",
+       "degree" : "MBBS, MCPS (ENT), DLO (DU), FRSH (UK)",
+       "speciality" : "ENT Specialist & Surgeon",
+       "about" : "Prof. Dr. Maj. Md. Ziauddin Haidar is a ENT Specialist & Surgeon doctor in Dhaka. His qualification is MBBS, MCPS (ENT), DLO (DU), FRSH (UK). He is a Consultant in the Department of ENT at Combined Military Hospital, Dhaka. He regularly provides treatment to his patients at Aichi Hospital Limited, Uttara. Practicing hour of Prof. Dr. Maj. Md. Ziauddin Haidar at Aichi Hospital Limited, Uttara is 4.30pm to 8.30pm (Closed: Friday).",
+       "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
+       "time" : "4.30pm to 8.30pm (Closed: Friday)",
+       "number": " +8801689956599",
+       "img" : "https://i.ibb.co/hfKR4Nw/187-20190701111802.jpg"
+
+
+
+    },
+
+    {
+      "id": "104",
+       "name" : "Prof. Dr. Md. Momenul Haque",
+       "degree" : "MBBS, DLO, MS (ENT)",
+       "speciality" : "ENT Specialist",
+       "about" : "Prof. Dr. Md. Momenul Haque is a ENT Specialist doctor in Dhaka. His qualification is MBBS, DLO, MS (ENT). He is working as a ENT Specialist doctor in Colonel Malek Medical College, Manikganj. He regularly provides treatment to his patients at Popular Diagnostic Center, Savar. Practicing hour of Prof. Dr. Md. Momenul Haque at Popular Diagnostic Center, Savar is 3pm to 6pm (Sun, Tue & Thu).",
+       "address": "E/22, Talbagh, Anandapur, Savar, Dhaka",
+       "time" : " 3pm to 6pm (Sun, Tue & Thu)",
+       "number": "+8809613787808",
+       "img" : "https://i.ibb.co/B6bPz1p/DR-MD-SAJJAD-HOSSAIN.jpg"
+
+
+
+    }
+]
